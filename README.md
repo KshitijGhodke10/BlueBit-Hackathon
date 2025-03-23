@@ -82,20 +82,22 @@ This project is licensed under the **MIT License**.
 ## 🖼️ Interface Screenshots
 
 ### **1. Extension Popup**
-![image](https://github.com/user-attachments/assets/9243d56d-658c-4f0d-a940-9fef59126ec8)
+![image](https://github.com/user-attachments/assets/31a67bd9-ef5c-4041-878d-28abbd92152a)
+![image](https://github.com/user-attachments/assets/f2996538-8790-4653-805b-50331120b0cc)
+
 
 
 ### **2. Job Search Results**
-![image](https://github.com/user-attachments/assets/99ab2da1-59d0-418e-81dc-c139ebea8cc3)
+![image](https://github.com/user-attachments/assets/6f458cbb-84c5-411c-809b-49445c70bb00)
 
 ### **3. Role-Based Recommendations**
-![image](https://github.com/user-attachments/assets/c7771db9-b850-480c-9404-9b2582cad23f)
-![image](https://github.com/user-attachments/assets/a9f83477-e811-41f5-a68f-c002020a312d)
+![image](https://github.com/user-attachments/assets/39ab20c2-d277-491e-b4dc-06250c7453b8)
+![image](https://github.com/user-attachments/assets/01e6ba70-9a21-42ff-a5ce-ccc1df03da05)
 
 
 ### **4. Job Details**
-![image](https://github.com/user-attachments/assets/1f4c7cb5-0559-4820-805a-6b3f5510148b)
-![image](https://github.com/user-attachments/assets/20d93bbd-699a-49fc-9ee7-fb6446ffb32b)
+![image](https://github.com/user-attachments/assets/5e448534-f51b-4631-89f5-13ed480b8e17)
+
 
 
 
